@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: The coolest club in town!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: Cogmentary (hopefully) welcomes the new and enthusiastic cohort of CSIM students!  # includes a list of news items
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Cogmentary Journal Club is a multidisciplinary academic group interested in discussing state of the art cognitive science, consciousness, philosophy of science, and trends in AI, among other related subjects. We are a highly motivated UPF student and alumni association, with a profound intellectual curiosity. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our main goal is to read, discuss, and question academic journals and other scientific materials. During our monthly meetings, we set out on a journey to unveil the possibilities of science by following the group’s self-constituted curriculum. We are also interested in sharing what we learn through this experience on our website, as a means to reach a wider audience.
+
+ 
+All you have to do to be a member is join our Discord server: https://discord.gg/Kq6mEzvR 
+

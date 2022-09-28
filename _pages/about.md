@@ -20,5 +20,5 @@ The Cogmentary Journal Club is a multidisciplinary academic group interested in 
 Our main goal is to read, discuss, and question academic journals and other scientific materials. During our monthly meetings, we set out on a journey to unveil the possibilities of science by following the group’s self-constituted curriculum. We are also interested in sharing what we learn through this experience on our website, as a means to reach a wider audience.
 
  
-All you have to do to be a member is join our Discord server: https://discord.gg/Kq6mEzvR 
+All you have to do to be a member is join our [Discord server](https://discord.gg/PgNwmSF38M)
 

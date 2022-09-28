@@ -6,7 +6,7 @@ subtitle: The coolest club in town!
 
 profile:
   align: right
-  image: logo.jpeg
+  image: logo.png
   image_circular: false # crops the image to make it circular
 
 news: True  # includes a list of news items

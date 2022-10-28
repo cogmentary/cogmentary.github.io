@@ -31,7 +31,6 @@ All you have to do to be a member is join our [Discord server](https://discord.g
  
 ### Upcoming Meetings
  
-Here's when we plan to meet, what we'll discuss, our recommended readings, and all the profound insights we generate in our discussions!
 <br>
 <table>
 <table border="1">

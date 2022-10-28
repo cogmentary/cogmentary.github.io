@@ -42,7 +42,7 @@ All you have to do to be a member is join our [Discord server](https://discord.g
        </tr>
  
 <tr>
-<td markdown="span"; style='text-align:center'> Nov 4 <br> 6pm CET </td>
+<td style='text-align:center'> Nov 4 <br> 6pm CET </td>
 <td markdown="span"> **Science, Society, and Systems**: How does science work? And why sometimes it doesn't? </td>
 <td markdown="span"> **Mandatory**: <br>
 [Why bad science spreads?](https://www.youtube.com/watch?v=fq8HOguXGFI) <br>
@@ -53,7 +53,7 @@ All you have to do to be a member is join our [Discord server](https://discord.g
 </tr>
  
 <tr>
-       <td markdown="span"; style='text-align:center'> Nov 25 <br> 6pm CET </td>
+       <td style='text-align:center'> Nov 25 <br> 6pm CET </td>
        <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
        <td style='text-align:center'> Coming soon... </td>
 </tr>

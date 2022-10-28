@@ -2,23 +2,76 @@
 layout: about
 title: about
 permalink: /
-subtitle: The coolest club in town!
-
+subtitle:
+ 
 profile:
-  align: right
-  image: logo.png
-  image_circular: false # crops the image to make it circular
-
+ align: right
+ image: logo.png
+ image_circular: false # crops the image to make it circular
+ 
 news: True  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-The Cogmentary Journal Club is a multidisciplinary academic group interested in discussing state of the art cognitive science, consciousness, philosophy of science, and trends in AI, among other related subjects. We are a highly motivated UPF student and alumni association, with a profound intellectual curiosity. 
-{: style="text-align: justify"}
-
-Our main goal is to read, discuss, and question academic journals and other scientific materials. During our monthly meetings, we set out on a journey to unveil the possibilities of science by following the group’s self-constituted curriculum. We are also interested in sharing what we learn through this experience on our website, as a means to reach a wider audience.
+<br>
+Cogmentary is a multidisciplinary journal club interested in discussing state of the art cognitive science, artificial intelligence, consciousness, and philosophy of science.
 {: style="text-align: justify"}
  
-All you have to do to be a member is join our [Discord server](https://discord.gg/PgNwmSF38M)
+Our objective is to critically read, discuss, and question scientific research. In our monthly meetings, we set out on a journey to unveil the possibilities of science by following the group’s self-constituted curriculum. We are also interested in sharing what we learn through our blog as a means to reach a wider audience.
 {: style="text-align: justify"}
+ 
+ 
+<br>
+ 
+### Join
+ 
+All you have to do to be a member is join our [Discord server](https://discord.gg/PgNwmSF38M)
+ 
+<br>
+ 
+### Upcoming Meetings
+ 
+Here's when we plan to meet, what we'll discuss, our recommended readings, and all the profound insights we generate in our discussions!
+<br>
+<table>
+<table border="1">
+   <tbody>
+       <tr class="alt">
+               <th style="width: 20%;">Date      </th>
+           <th style="width: 40%;">Topic </th>
+           <th style="width: 40%;">Readings   </th>
+       </tr>
+ 
+<tr>
+<td markdown="span"> Nov 4 <br> 6pm CET </td>
+<td markdown="span"> **Science, Society, and Systems**: How does science work? And why sometimes it doesn't? </td>
+<td markdown="span"> **Mandatory**: <br>
+[Why bad science spreads?](https://www.youtube.com/watch?v=fq8HOguXGFI) <br>
+ 
+**Optional**: <br>
+[Thomas Kuhn: The Structure of Scientific Revolutions](https://drive.google.com/file/d/17gZ36XscqQXempoLXQAWoy-mgrI16aMU/view?usp=share_link)</td>
+ 
+</tr>
+ 
+<tr>
+       <td markdown="span"> Nov 25 <br>6pm CET </td>
+       <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
+       <td> Coming soon... </td>
+</tr>
+ 
+ 
+    <!-- -------------------------------- -->
+<tr>
+       <td> Dec 9
+           6pm CET </td>
+       <td> <br> Art in the age of Artificial Intelligence <br> <br></td>
+       <td> Coming soon... </td>
+</tr>
+        
+        
+  
+        
+</tbody>
+</table>
+<br>
+<br>

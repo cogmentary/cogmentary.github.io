@@ -53,8 +53,8 @@ All you have to do to be a member is join our [Discord server](https://discord.g
 </tr>
  
 <tr>
-       <td style='text-align:center'> Nov 25 <br> 6pm CET </td>
-       <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
+       <td style='text-align:center'> Nov 23 <br> 6pm CET </td>
+       <td> <br> Art in the age of Artificial Intelligence <br> <br></td>
        <td style='text-align:center'> Coming soon... </td>
 </tr>
  
@@ -63,7 +63,7 @@ All you have to do to be a member is join our [Discord server](https://discord.g
 <tr>
        <td style='text-align:center'> Dec 9 <br>
            6pm CET </td>
-       <td> <br> Art in the age of Artificial Intelligence <br> <br></td>
+       <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
        <td style='text-align:center'> Coming soon... </td>
 </tr>
         

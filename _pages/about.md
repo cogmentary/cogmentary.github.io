@@ -53,9 +53,15 @@ All you have to do to be a member is join our [Discord server](https://discord.g
 </tr>
  
 <tr>
-       <td style='text-align:center'> Nov 25 <br> 6pm CET </td>
-       <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
-       <td style='text-align:center'> Coming soon... </td>
+       <td style='text-align:center'> Nov 23 <br> 6pm CET </td>
+       <td> <br> How Machine Learning is Affecting Artistic Work?
+ <br> <br></td>
+       <td> **Mandatory**: <br>[Machine Learning and the Creative Process, pg: 20 - 46](https://www.oii.ox.ac.uk/wp-content/uploads/2022/03/040222-AI-and-the-Arts_FINAL.pdf)
+       <br>
+ 
+**Optional**: <br>
+If you'd like to dig deeper, check out this [document](https://drive.google.com/file/d/17gZ36XscqQXempoLXQAWoy-mgrI16aMU/view?usp=share_link)
+ </td>
 </tr>
  
  
@@ -63,7 +69,7 @@ All you have to do to be a member is join our [Discord server](https://discord.g
 <tr>
        <td style='text-align:center'> Dec 9 <br>
            6pm CET </td>
-       <td> <br> Art in the age of Artificial Intelligence <br> <br></td>
+       <td> <br> Evolution of Cognition and Human Intelligence <br> <br></td>
        <td style='text-align:center'> Coming soon... </td>
 </tr>
         

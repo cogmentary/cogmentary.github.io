@@ -75,13 +75,11 @@ If you'd like to dig deeper, check out this [document](https://drive.google.com/
 [The Role of Culture and Evolution for Human Cognition](https://drive.google.com/file/d/1ue-s5p2T_HI8OXP6rBELXpj7QC1RCos7/view?usp=share_link) <br>
  
 **Optional**: <br>
-[Human evolution and cognition, Ian Tattersall (2010)](https://pubmed.ncbi.nlm.nih.gov/20509011/)
-
-<br>
+[Human Brain Size and its Evolution explained by Wieland Huttner](https://www.youtube.com/watch?v=tIK-lsN5_CM) (YouTube video)<br>
+[Human evolution and cognition, Ian Tattersall (2010)](https://pubmed.ncbi.nlm.nih.gov/20509011/)<br>
 [Social learning and evolution: The cultural intelligence hypothesis](https://drive.google.com/file/d/1gkTBynwh_kIAl3rXH16pKZApesB-bFVn/view?usp=share_link)
 
-<br>
-[Human Brain Size and its Evolution explained by Wieland Huttner](https://www.youtube.com/watch?v=tIK-lsN5_CM)
+
 
 </td>
  

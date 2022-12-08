@@ -69,7 +69,7 @@ If you'd like to dig deeper, check out this [document](https://drive.google.com/
 
 
 <tr>
-<td style='text-align:center'> Dec 9 <br> 6pm CET </td>
+<td style='text-align:center'> Dec 10 <br> 12pm CET </td>
 <td markdown="span"> Evolution of Cognition and Human Intelligence </td>
 <td markdown="span"> **Mandatory**: <br>
 [The Role of Culture and Evolution for Human Cognition](https://drive.google.com/file/d/1ue-s5p2T_HI8OXP6rBELXpj7QC1RCos7/view?usp=share_link) <br>

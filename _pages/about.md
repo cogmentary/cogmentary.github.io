@@ -25,7 +25,7 @@ Our objective is to critically read, discuss, and question scientific research. 
  
 ### Join
  
-All you have to do to be a member is join our [Discord server](https://discord.gg/PgNwmSF38M) and our [Google group](https://groups.google.com/a/llista.upf.edu/g/cogmentary).
+All you have to do to be a member is join our [Discord server](https://discord.gg/PgNwmSF38M) and our [Google group](https://groups.google.com/u/3/g/cogmentary).
  
 <br>
  

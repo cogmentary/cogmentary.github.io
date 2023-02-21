@@ -10,4 +10,3 @@ Watch our video: Can Machines Think?
 {% include youtube.html id="Dkc-9Kd_WCQ" %}  
 {% endraw %}
 
-{% include youtube.html id="Dkc-9Kd_WCQ" %}

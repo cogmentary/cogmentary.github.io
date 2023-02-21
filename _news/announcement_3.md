@@ -5,7 +5,3 @@ inline: true
 ---
 
 Cogmentary welcomes the new cohort of CSIM students! :sparkles: :smile:
-
-
-Watch our video about: Can Machines Think?
-[![Watch our video about: Can Machines Think?](https://img.youtube.com/vi/Dkc-9Kd_WCQ&ab/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dkc-9Kd_WCQ&ab)

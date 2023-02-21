@@ -6,7 +6,6 @@ inline: true
 
 Cogmentary welcomes the new cohort of CSIM students! :sparkles: :smile:
 
----
 
 layout: post
 date: 2023-02-21 07:59:00-0400

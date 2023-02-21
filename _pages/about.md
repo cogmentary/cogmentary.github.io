@@ -82,6 +82,19 @@ If you'd like to dig deeper, check out this [document](https://drive.google.com/
 
 
 </td>
+
+<tr>
+<td style='text-align:center'> Feb 27 <br> 7:30pm CET </td>
+<td markdown="span"> A Categorical Archive of ChatGPT Failures by Ali Borji </td>
+<td markdown="span"> **Mandatory**: <br>
+[Machine Learning and the Creative Process, pg: 20 - 46](https://arxiv.org/abs/2302.03494)<br>
+ 
+**Optional**: <br>
+If you'd like to dig deeper, check out this [document](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+</td>
+
+</tr> 
+ 
  
 </tr>  
         

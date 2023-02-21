@@ -5,9 +5,6 @@ inline: true
 ---
 
 Cogmentary welcomes the new cohort of CSIM students! :sparkles: :smile:
-[![A video we made on the topic: Can Machines Think?](https://img.youtube.com/vi/Dkc-9Kd_WCQ&ab/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dkc-9Kd_WCQ&ab)
-{% raw %}
-{% include youtube.html id="Dkc-9Kd_WCQ&ab" %}  
-{% endraw %}
 
-{% include youtube.html id="Dkc-9Kd_WCQ&ab" %}
+---
+[![A video we made on the topic: Can Machines Think?](https://img.youtube.com/vi/Dkc-9Kd_WCQ&ab/maxresdefault.jpg)](https://www.youtube.com/watch?v=Dkc-9Kd_WCQ&ab)

@@ -85,11 +85,9 @@ If you'd like to dig deeper, check out this [document](https://drive.google.com/
 
 <tr>
 <td style='text-align:center'> Feb 27 <br> 7:30pm CET </td>
-<td markdown="span"> ChatGPT </td>
-<td markdown="span"> **Mandatory**: <br>
+<td markdown="span"> Large language models (LLMs) </td>
+<td markdown="span"> **Recommended**: <br>
 [A Categorical Archive of ChatGPT Failures](https://arxiv.org/abs/2302.03494)<br>
- 
-**Optional**: <br>
 [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 </td>
 

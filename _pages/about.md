@@ -88,6 +88,7 @@ If you'd like to dig deeper, check out this [document](https://drive.google.com/
 <td markdown="span"> Large language models (LLMs) </td>
 <td markdown="span"> **Recommended**: <br>
 [A Categorical Archive of ChatGPT Failures](https://arxiv.org/abs/2302.03494)<br>
+ <br>
 [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 </td>
 
